@@ -1,0 +1,29 @@
+{
+  "name": "formularios-traspasos-y-acuerdos-de-empresa",
+  "owner": {
+    "name": "Derecho Virtual",
+    "url": "https://jurisprudenciator.lexiaipro.org"
+  },
+  "metadata": {
+    "description": "Traspasos de negocio, confidencialidad y acuerdos de empresa · España (20 formularios). Para operaciones y acuerdos sueltos de empresa: venta y arrendamiento de negocios o industrias, cartera de clientes, cartas de intenciones, acuerdos de confidencialidad (NDA), phantom shares, coworking, contrato estimatorio, requerimientos de pago por morosidad y otras cláusulas de empresa. Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+    "version": "1.1.0"
+  },
+  "plugins": [
+    {
+      "name": "formularios-traspasos-y-acuerdos-de-empresa",
+      "source": "./",
+      "description": "Traspasos de negocio, confidencialidad y acuerdos de empresa · España (20 formularios). Para operaciones y acuerdos sueltos de empresa: venta y arrendamiento de negocios o industrias, cartera de clientes, cartas de intenciones, acuerdos de confidencialidad (NDA), phantom shares, coworking, contrato estimatorio, requerimientos de pago por morosidad y otras cláusulas de empresa. Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+      "version": "1.1.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "mercantil",
+        "otros-mercantil"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "formularios-traspasos-y-acuerdos-de-empresa",
+  "version": "1.1.0",
+  "description": "Traspasos de negocio, confidencialidad y acuerdos de empresa: 20 formularios revisados el 25-11-2026, cada uno convertido en una skill que lo rellena paso a paso. Para operaciones y acuerdos sueltos de empresa: venta y arrendamiento de negocios o industrias, cartera de clientes, cartas de intenciones, acuerdos de confidencialidad (NDA), phantom shares, coworking, contrato estimatorio, requerimientos de pago por morosidad y otras cláusulas de empresa. Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+  "author": {
+    "name": "Derecho Virtual",
+    "url": "https://jurisprudenciator.lexiaipro.org"
+  },
+  "displayName": "Traspasos de negocio, confidencialidad y acuerdos de empresa · España",
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://jurisprudenciator.lexiaipro.org/politica-de-privacidad",
+  "supportUrl": "https://jurisprudenciator.lexiaipro.org/incidencias",
+  "homepage": "https://jurisprudenciator.lexiaipro.org",
+  "termsOfServiceUrl": "https://jurisprudenciator.lexiaipro.org/terminos-y-condiciones",
+  "keywords": [
+    "jurisprudenciator",
+    "legal",
+    "españa",
+    "formularios",
+    "modelos",
+    "mercantil",
+    "otros-mercantil"
+  ],
+  "repository": "https://github.com/DerechoVirtual/formularios-traspasos-y-acuerdos-de-empresa"
+}
